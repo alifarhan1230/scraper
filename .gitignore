@@ -1,5 +1,6 @@
 *.csv
 *.pdf
 *.xlsx
+*.zip
 venv
 __pycache__
